@@ -4,7 +4,7 @@ import { zegHallo } from './Functies.js';
 
 describe('Functies', () => {
     it('zegHallo', () => {
-        expect(zegHallo("Peter")).toBe("Hallo Peter");
+        expect(zegHallo("Peter")).toBe("Hallo Jan");
     });
 });
 
